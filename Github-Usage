@@ -1,9 +1,6 @@
 Quick setup — if you’ve done this kind of thing before
  https://github.com/xujin/xxx.git
 
-
-
-
 一：设置Git的user name和email
 git config --global user.name "xujin"
 git config --global user.email "xujingreate@163.com"
